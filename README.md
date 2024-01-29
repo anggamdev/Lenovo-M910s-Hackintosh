@@ -38,6 +38,8 @@
 - Display Port 
 - Etc
 
+###[ Download EFI](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/releases/tag/OC.0.9.7 " Download EFI")
+
 ### Bios Setting :
 - Please see **Bios Setting Lenovo M910s** folder
 
