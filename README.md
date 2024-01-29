@@ -1,6 +1,6 @@
 # Lenovo ThinkCentre M910s SFF | Hackintosh OpenCore
 [![H](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Lenovo%20ThinkCentre%20M910s.png?raw=true "H")
-### EFI Lenovo M910s
+### EFI [Lenovo Thinkcentre M910s](https://www.lenovo.com/id/in/desktops/thinkcentre/m-series-sff/ThinkCentre-M910s/p/11TC1MD910S?)
 
 ### Boot :
 
@@ -18,7 +18,7 @@
 - Ethernet Card: Intel L219-LM
 - Bootloader OpenCore 0.9.7
 - OS Monterey 12.7.2 (21G1974)
-- Installer Olarila
+- [Installer Olarila](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
 
 [![I](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Screen%20Shot%202024-01-29%20at%2020.50.42.png?raw=true "I")](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/blob/main/Screenshot/Screen%20Shot%202024-01-29%20at%2020.50.42.png?raw=true "I")
 
