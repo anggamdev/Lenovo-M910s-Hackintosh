@@ -42,6 +42,6 @@
 
 ### Bios Setting :
 
-- Please see [Bios Setting Lenovo M910s](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/tree/main/BIOS%20Setting%20for%20Lenovo%20M910s "Bios Setting Lenovo M910s") folder
+- Please see [Bios Setting Lenovo M910s](https://github.com/anggamdev/Lenovo-M910s-Hackintosh/commit/c6162791a509a7d4de7c602fda5e07d27f821516 "Bios Setting Lenovo M910s") folder
 
 Thanks to 🇮🇩 h4ςκ1η†05h ﾚ0∀εr 🇮🇩 GRUP for Guide to create this EFI
